@@ -25,6 +25,11 @@ This Jupyter Notebook script fetches data from an API containing information abo
 
 This Jupyter Notebook script reads data from a CSV file containing user information (e.g., name, email) and inserts it into a SQLite database.
 
+**Attached Files:**
+- PDFs of the completed code files for each problem.
+- My updated resume.
+
+
 
 
 
